@@ -1,3 +1,3 @@
-module github.com/willianpc/gosomeapi
+module github.com/willianpc/gonewapiname
 
 go 1.19
